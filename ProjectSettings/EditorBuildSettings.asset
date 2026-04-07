@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Assets/Scenes/Main Menu.unity
+    path: Assets/Scenes/Main Menu.unity
     guid: c889ce7954f689f469779dcded91e3c7
   - enabled: 1
-    path: Assets/Assets/Scenes/Easy Mode.unity
+    path: Assets/Scenes/Easy Mode.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Assets/Scenes/Hard Mode.unity
+    path: Assets/Scenes/Hard Mode.unity
     guid: cfb59d706c4e2594abbe5a9933afafc5
   - enabled: 1
-    path: Assets/Assets/Scenes/Final Boss.unity
+    path: Assets/Scenes/Final Boss.unity
     guid: 7e88b3d1085dd694c8e8fa28e8e9e75f
   - enabled: 1
     path: Assets/Assets/Scenes/Secret Mode.unity
