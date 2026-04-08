@@ -5,7 +5,7 @@ A retro-style fixed shooter game built in Unity where players fight waves of inv
 ## Features
 - Multiple difficulty modes (Easy, Hard, Secret)
 - Boss fight level
-- Sound effects and background music
+- Sound effects and background music (self created)
 - Animated enemies and player projectiles
 - Level selection system
 
